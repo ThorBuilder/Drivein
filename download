@@ -1,0 +1,5 @@
+DriveIn.xcodeproj/
+build/
+Payload/
+*.ipa
+.DS_Store
